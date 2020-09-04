@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am a developer 👋
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -19,20 +19,20 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-              
-              
-
+```
 <!--
-**YoboZorle/YoboZorle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kautukkundan/kautukkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GreenCrunch
-- 🌱 I’m currently learning Dart
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Loading... some awesome ideas to go here, check back again in some time
